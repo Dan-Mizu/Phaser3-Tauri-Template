@@ -4,8 +4,8 @@ name = "example_project"
 version = "0.0.0"
 description = "Example Description"
 authors = ["DanMizu"]
-license = ""
-repository = ""
+license = "GPL-3.0-or-later"
+repository = "https://github.com/Dan-Mizu/Phaser3-Tauri-Template"
 # Leave this alone, as it references the Tauri edition, and has nothing to do with your project.
 edition = "2021"
 
