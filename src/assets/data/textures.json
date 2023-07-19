@@ -1,0 +1,34 @@
+{
+    "logo": "texture/phaser3-logo.png",
+    "background_space": "texture/space3.png",
+    "particle_red": "texture/red.png",
+    "dude": {
+        "spritesheet": "texture/dude.png",
+        "frameWidth": 32,
+        "frameHeight": 48,
+        "anims": {
+            "left": {
+                "frameRate": 10,
+                "auto": true,
+                "frames": {
+                    "start": 0,
+                    "end": 3
+                }
+            },
+            "turn": {
+                "frameRate": 20,
+                "frames": {
+                    "start": 4
+                }
+            },
+            "right": {
+                "frameRate": 10,
+                "auto": true,
+                "frames": {
+                    "start": 5,
+                    "end": 8
+                }
+            }
+        }
+    }
+}
