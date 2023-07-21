@@ -1,10 +1,10 @@
 {
-  "name": "example_project",
-  "private": true,
+  "name": "phaser3-tauri-template",
   "version": "0.0.0",
-  "type": "module",
   "author": "DanMizu",
   "license": "GPL-3.0-or-later",
+  "private": true,
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/Dan-Mizu/Phaser3-Tauri-Template"

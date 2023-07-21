@@ -9,6 +9,7 @@
         "storejs",
         "tauri",
         "webfontloader",
-        "webp"
+        "webp",
+        "DanMizu"
     ]
 }
